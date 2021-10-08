@@ -1,0 +1,7 @@
+.filter-ul {
+  list-style-type: none;
+}
+
+.filter-button.active {
+  background-color: skyblue;
+}
